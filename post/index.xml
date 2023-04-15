@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SDC4Lit-Testseite</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on SDC4Lit-Testseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 14:02:33 +0200</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Der erste Post</title>
+      <link>http://example.org/post/testcontent/01/01_erster_post/</link>
+      <pubDate>Sat, 15 Apr 2023 14:02:33 +0200</pubDate>
+      
+      <guid>http://example.org/post/testcontent/01/01_erster_post/</guid>
+      <description>Hier beginnt der Text. Um keinen Unsinn schreiben zu müssen kommen hier jetzt die gängigsten Markdown-Formatierungen die wir in hugo nutzen wollen.
+Fett: fett
+kursiv: kursiv
+Linien (benötigen harten Return oder Abstand, sonst wird es zur Headline!):
+Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 (geht auch mit + oder -) Punkt 2 (geht auch mit + oder -) Punkt 3 (geht auch mit + oder -) nummerierte Liste nummerierte Liste nummerierte Liste nummerierte Liste nummerierte Liste Zitat auch über mehrere Zeilen mit Umbruch</description>
+    </item>
+    
+  </channel>
+</rss>
