@@ -6,14 +6,14 @@
     <description>Recent content on SDC4Lit-Testseite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>info@sdc4lit.de</managingEditor>
-    <webMaster>info@sdc4lit.de</webMaster>
+    <managingEditor>info@sdc4lit.de (sdc4lit)</managingEditor>
+    <webMaster>info@sdc4lit.de (sdc4lit)</webMaster>
     <lastBuildDate>Sat, 15 Apr 2023 14:02:33 +0200</lastBuildDate><atom:link href="https://dla-holz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der erste Post</title>
       <link>https://dla-holz.github.io/post/testcontent/01/01_erster_post/</link>
       <pubDate>Sat, 15 Apr 2023 14:02:33 +0200</pubDate>
-      <author>info@sdc4lit.de</author>
+      <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/post/testcontent/01/01_erster_post/</guid>
       <description>Hier beginnt der Text. Um keinen Unsinn schreiben zu müssen kommen hier jetzt die gängigsten Markdown-Formatierungen die wir in hugo nutzen wollen.
 Fett: fett
