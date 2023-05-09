@@ -9,5 +9,44 @@
     <managingEditor>info@sdc4lit.de (sdc4lit)</managingEditor>
     <webMaster>info@sdc4lit.de (sdc4lit)</webMaster>
     <lastBuildDate>Tue, 09 May 2023 13:19:40 +0200</lastBuildDate><atom:link href="https://dla-holz.github.io/infocenter/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie werden Blogs gespeichert</title>
+      <link>https://dla-holz.github.io/infocenter/introduction/de_speichern/</link>
+      <pubDate>Mon, 08 May 2023 21:03:19 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/introduction/de_speichern/</guid>
+      <description>Webseiten verändern sich &amp;ndash; wie werden Blogs gespeichert? [intern: Entscheidungen der Ablage sowohl aus Literatur-im-Netz als auch zukünftiger Archivierung. Aspekte: Crawling, Startseite und weiterspringen über Linkstruktur; Boilerplate; dynamische Inhalte; Crawling als Prozess (die abgelegte Version hat es so vielleicht nie gegeben); gecrawlte Daten, die nicht zum Blog gehören; nicht gecrawlte Daten, die zum Blog gehören; Content-Management-Systeme; Sichtweisen auf den Gegenstand: verschiedene Archivobjekte, Ansichten (Daten können sich von den Erwartungen unterscheiden)]</description>
+    </item>
+    
+    <item>
+      <title>Ergebnisse verstehen</title>
+      <link>https://dla-holz.github.io/infocenter/introduction/de_ergebnisse/</link>
+      <pubDate>Mon, 08 May 2023 21:03:09 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/introduction/de_ergebnisse/</guid>
+      <description>Ergebnisse verstehen &amp;ndash; Einfluss der Datengrundlage berücksichtigen In Kapitel Webseiten verändern sich - wie werden Blogs gespeichert? wurde darauf eingegangen, wie ein Blog gespeichert werden kann und wie sich das gespeicherte Archivobjekt zum Netzobjekt Blog verhält. Basierend auf diesen Strategien und technischen Gegebenheiten ergeben sich wichtige Hinweise für den Umgang mit Analysen und Analyseergebnissen.
+Redundanz Datierung Suche Ansicht Vergleichbarkeit innerhalb eines Blogs Vergleichbarkeit verschiedener Blogs Redundanz Im Archivobjekt sind Inhalte (z.</description>
+    </item>
+    
+    <item>
+      <title>Bausteine eines Blogs</title>
+      <link>https://dla-holz.github.io/infocenter/introduction/de_bausteine/</link>
+      <pubDate>Mon, 08 May 2023 21:02:56 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/introduction/de_bausteine/</guid>
+      <description>Bausteine eines Blogs [intern: hier keine SDC4Lit-spezifischen Aspekte, Ansichtsperspektive]
+Im Folgenden werden einige typische Bausteine eines Blogs beschrieben. Dazu nehmen wir in diesem Kapitel hauptsächlich die Perspektive der Blog-Besuchenden ein, so dass Sie bei der Ansicht eines Blogs die hier beschriebenen Bausteine wiederfinden können. Hinweis: Nicht jedes Blog nutzt alle Bausteine und weitere Bausteine sind möglich. Die in diesem Kapitel beschriebenen Grundlagen sind relevant für die Erläuterungen aus der Archivierungs- und Analyseperspektive in den Kapiteln Webseiten verändern sich &amp;ndash; wie werden Blogs gespeichert?</description>
+    </item>
+    
+    <item>
+      <title>Untersuchung von Blog-Daten in SDC4Lit -- Einführung</title>
+      <link>https://dla-holz.github.io/infocenter/introduction/de_einfuehrung/</link>
+      <pubDate>Mon, 08 May 2023 21:02:44 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/introduction/de_einfuehrung/</guid>
+      <description>Für wen ist diese Einführung relevant? Auf der Plattform SDC4Lit sind unter anderem Blog-Daten abgelegt. Sie können durchsucht und angezeigt werden und stehen zur Analyse zur Verfügung. Um Analysen geeignet durchzuführen und Ansichten sowie Ergebnisse von Suchen und Analysen interpretieren zu können ist es relevant, die im technischen Prozess der Ablage genutzen Maßnahmen und getroffenen Entscheidungen zu kennen.
+Diese Einführung ist daher für alle Nutzenden der Blog-Daten auf SDC4Lit relevant.</description>
+    </item>
+    
   </channel>
 </rss>
