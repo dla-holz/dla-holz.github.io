@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="16cm" viewBox="307 100 265 301" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #2683c6" x="309" y="102" width="71" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="309" y="102" width="71" height="100"/>
+  </g>
+  <g>
+    <rect style="fill: #2683c6" x="365.1" y="300.9" width="71" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="365.1" y="300.9" width="71" height="100"/>
+  </g>
+  <g>
+    <rect style="fill: #2683c6" x="500.2" y="202.8" width="71" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500.2" y="202.8" width="71" height="100"/>
+  </g>
+  <g>
+    <rect style="fill: #e5e5e5" x="347.5" y="110" width="24.25" height="22.25"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="347.5" y="110" width="24.25" height="22.25"/>
+  </g>
+  <g>
+    <rect style="fill: #e5e5e5" x="315.026" y="170.725" width="24.25" height="22.25"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="315.026" y="170.725" width="24.25" height="22.25"/>
+  </g>
+  <g>
+    <rect style="fill: #e5e5e5" x="375.25" y="344.644" width="46.5" height="22.25"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="375.25" y="344.644" width="46.5" height="22.25"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="312.25" y1="125.212" x2="341.75" y2="125.462"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="506.284" y1="231.696" x2="563" y2="231.712"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="313.033" y1="138.483" x2="371.25" y2="138.25"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="313.279" y1="143.962" x2="371.496" y2="143.729"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="312.804" y1="149.687" x2="371.021" y2="149.454"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="313.329" y1="164.412" x2="371.546" y2="164.179"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="342.283" y1="169.483" x2="371.783" y2="169.733"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="342.283" y1="174.483" x2="371.783" y2="174.733"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="343.058" y1="188.458" x2="372.558" y2="188.708"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="505.104" y1="256.712" x2="563.321" y2="256.479"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="505.104" y1="260.625" x2="563.321" y2="260.392"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="505.104" y1="264.537" x2="563.321" y2="264.304"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="505.104" y1="268.45" x2="563.321" y2="268.217"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="505.104" y1="272.362" x2="563.321" y2="272.129"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="519.533" y1="286.733" x2="549.033" y2="286.983"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="506.308" y1="239.208" x2="535.808" y2="239.458"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="522.333" y1="243.933" x2="551.833" y2="244.183"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="533.358" y1="248.908" x2="562.858" y2="249.158"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="312.284" x2="423.321" y2="312.534"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="316.092" x2="423.321" y2="316.342"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="319.9" x2="423.321" y2="320.15"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="323.709" x2="423.321" y2="323.959"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="327.517" x2="423.321" y2="327.767"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="331.325" x2="423.321" y2="331.575"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="393.821" y1="335.134" x2="423.321" y2="335.384"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="372.126" x2="404.783" y2="372.376"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="375.934" x2="404.783" y2="376.184"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="379.742" x2="404.783" y2="379.992"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="383.551" x2="404.783" y2="383.801"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="387.359" x2="404.783" y2="387.609"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="391.167" x2="404.783" y2="391.417"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x1="375.283" y1="394.976" x2="404.783" y2="395.226"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="356.75" y1="168.75" x2="489.252" y2="230.984"/>
+    <polygon style="fill: #000000" points="487.127,235.51 498.304,235.236 491.378,226.459 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="487.127,235.51 498.304,235.236 491.378,226.459 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="357.033" y1="174.608" x2="385.362" y2="289.24"/>
+    <polygon style="fill: #000000" points="380.508,290.44 387.761,298.948 390.216,288.041 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="380.508,290.44 387.761,298.948 390.216,288.041 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="390.033" y1="372.251" x2="357.268" y2="213.762"/>
+    <polygon style="fill: #000000" points="362.165,212.749 355.244,203.969 352.372,214.774 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="362.165,212.749 355.244,203.969 352.372,214.774 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 327,125.337 A 43.349,43.349 0 0 0 347.528,185.458"/>
+    <polygon style="fill: #000000" points="346.118,191.64 356.823,188.413 347.819,181.786 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="346.118,191.64 356.823,188.413 347.819,181.786 "/>
+  </g>
+</svg>

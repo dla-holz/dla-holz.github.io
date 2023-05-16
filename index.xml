@@ -30,6 +30,16 @@ Redundanz Datierung Suche Ansicht Vergleichbarkeit innerhalb eines Blogs Verglei
     
     <item>
       <title>Bausteine eines Blogs</title>
+      <link>https://dla-holz.github.io/infocenter/glossar/de_glossar/</link>
+      <pubDate>Mon, 08 May 2023 21:02:56 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/glossar/de_glossar/</guid>
+      <description>Bausteine eines Blogs [intern: hier keine SDC4Lit-spezifischen Aspekte, Ansichtsperspektive]
+Im Folgenden werden einige typische Bausteine eines Blogs beschrieben. Dazu nehmen wir in diesem Kapitel hauptsächlich die Perspektive der Blog-Besuchenden ein, so dass Sie bei der Ansicht eines Blogs die hier beschriebenen Bausteine wiederfinden können. Hinweis: Nicht jedes Blog nutzt alle Bausteine und weitere Bausteine sind möglich. Die in diesem Kapitel beschriebenen Grundlagen sind relevant für die Erläuterungen aus der Archivierungs- und Analyseperspektive in den Kapiteln Webseiten verändern sich &amp;ndash; wie werden Blogs gespeichert?</description>
+    </item>
+    
+    <item>
+      <title>Bausteine eines Blogs</title>
       <link>https://dla-holz.github.io/infocenter/introduction/de_bausteine/</link>
       <pubDate>Mon, 08 May 2023 21:02:56 +0200</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
@@ -58,7 +68,7 @@ Diese Einführung ist daher für alle Nutzenden der Blog-Daten auf SDC4Lit relev
     </item>
     
     <item>
-      <title>Warcs</title>
+      <title>WARCs</title>
       <link>https://dla-holz.github.io/infocenter/documentation/de_warcs/</link>
       <pubDate>Mon, 08 May 2023 20:57:04 +0200</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
@@ -76,7 +86,7 @@ Diese Einführung ist daher für alle Nutzenden der Blog-Daten auf SDC4Lit relev
     </item>
     
     <item>
-      <title>Korpora</title>
+      <title>Korpora Literatur im Netz</title>
       <link>https://dla-holz.github.io/infocenter/documentation/de_korpora/</link>
       <pubDate>Mon, 08 May 2023 20:55:59 +0200</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
@@ -103,7 +113,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/intellectual_entity/x_4785/</guid>
-      <description> Titel: Anna Kaleri Autor:in: Anna Kaleri Live-Web: SWBContent: Genre: .. Object Category: Intellektuelle Einheit Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna KaleriAutor:in: Anna KaleriLive-Web: SWBContent: Genre: .. Object Category: Intellektuelle EinheitCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -112,7 +122,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4792/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -121,7 +131,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4793/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -130,7 +140,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4794/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -139,7 +149,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4795/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -148,7 +158,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4796/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -157,7 +167,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4797/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -166,7 +176,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4798/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -175,7 +185,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4800/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -184,7 +194,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4801/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -193,7 +203,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4802/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -202,7 +212,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4803/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -211,7 +221,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4804/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -220,7 +230,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4805/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -229,7 +239,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4806/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -238,7 +248,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4807/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -247,7 +257,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4808/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -256,7 +266,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4812/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -265,7 +275,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4813/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -274,7 +284,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4814/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -283,7 +293,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4815/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -292,7 +302,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4816/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -301,7 +311,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4820/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -310,7 +320,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4829/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -319,7 +329,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4832/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -328,7 +338,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4833/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -337,7 +347,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4835/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -346,7 +356,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4836/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -355,7 +365,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4837/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -364,7 +374,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4838/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -373,7 +383,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4839/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -382,7 +392,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4840/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -391,7 +401,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4841/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -400,7 +410,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4846/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -409,7 +419,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4847/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -418,7 +428,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4848/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -427,7 +437,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4849/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -436,7 +446,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4852/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -445,7 +455,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4853/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -454,7 +464,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4854/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -463,7 +473,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4855/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -472,7 +482,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4856/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -481,7 +491,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4857/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -490,7 +500,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4858/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -499,7 +509,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4859/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -508,7 +518,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4860/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -517,7 +527,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4862/</guid>
-      <description> Titel: Anna Kaleri, Repräsentationen, 2012-11-21 Autor:in: Anna Kaleri Live-Web: http://annakaleri.twoday.net/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Anna Kaleri, Repräsentationen, 2012-11-21Autor:in: Anna KaleriLive-Web: http://annakaleri.twoday.net/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -526,7 +536,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4746/</guid>
-      <description> Titel: Appareil de tiptip, Repräsentationen, 2012-05-30 Autor:in: Carola Beck Live-Web: http://appareil-de-tiptip.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Appareil de tiptip, Repräsentationen, 2012-05-30Autor:in: Carola BeckLive-Web: http://appareil-de-tiptip.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -535,7 +545,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4748/</guid>
-      <description> Titel: Appareil de tiptip, Repräsentationen, 2012-05-30 Autor:in: Carola Beck Live-Web: http://appareil-de-tiptip.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Appareil de tiptip, Repräsentationen, 2012-05-30Autor:in: Carola BeckLive-Web: http://appareil-de-tiptip.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -544,7 +554,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4749/</guid>
-      <description> Titel: Appareil de tiptip, Repräsentationen, 2012-05-30 Autor:in: Carola Beck Live-Web: http://appareil-de-tiptip.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Appareil de tiptip, Repräsentationen, 2012-05-30Autor:in: Carola BeckLive-Web: http://appareil-de-tiptip.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -553,7 +563,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4763/</guid>
-      <description> Titel: Appareil de tiptip, Repräsentationen, 2012-05-30 Autor:in: Carola Beck Live-Web: http://appareil-de-tiptip.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Appareil de tiptip, Repräsentationen, 2012-05-30Autor:in: Carola BeckLive-Web: http://appareil-de-tiptip.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -562,7 +572,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/intellectual_entity/x_4765/</guid>
-      <description> Titel: Browserboy Autor:in: unbekannt Live-Web: SWBContent: Genre: .. Object Category: Intellektuelle Einheit Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: BrowserboyAutor:in: unbekanntLive-Web: SWBContent: Genre: .. Object Category: Intellektuelle EinheitCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -571,7 +581,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/intellectual_entity/x_4756/</guid>
-      <description> Titel: Haiku &amp;#43; Fotografie Autor:in: Zürcher, Hans-Peter Live-Web: http://haiku-foto.blogspot.de/ SWBContent: http://literatur-im-netz.dla-marbach.de/zdb2658039-1.html Genre: web site .. Object Category: Intellektuelle Einheit Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Haiku &amp;#43; FotografieAutor:in: Zürcher, Hans-PeterLive-Web: http://haiku-foto.blogspot.de/SWBContent: http://literatur-im-netz.dla-marbach.de/zdb2658039-1.htmlGenre: web site.. Object Category: Intellektuelle EinheitCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -580,7 +590,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/intellectual_entity/x_4757/</guid>
-      <description> Titel: Haiku &amp;#43; Fotografie Autor:in: Zürcher, Hans-Peter Live-Web: http://haiku-foto.blogspot.de/ SWBContent: http://literatur-im-netz.dla-marbach.de/zdb2658039-1.html Genre: web site .. Object Category: Intellektuelle Einheit Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Haiku &amp;#43; FotografieAutor:in: Zürcher, Hans-PeterLive-Web: http://haiku-foto.blogspot.de/SWBContent: http://literatur-im-netz.dla-marbach.de/zdb2658039-1.htmlGenre: web site.. Object Category: Intellektuelle EinheitCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -589,7 +599,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4766/</guid>
-      <description> Titel: Haiku &amp;#43; Fotografie, Repräsentationen, 2012-07-05 Autor:in: Hans-Peter Zürcher Live-Web: http://haiku-foto.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Haiku &amp;#43; Fotografie, Repräsentationen, 2012-07-05Autor:in: Hans-Peter ZürcherLive-Web: http://haiku-foto.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
     <item>
@@ -598,7 +608,7 @@ Headline H1 Headline H2 Headline H3 Headline H4 Headline H5 Headline H6 Punkt 1 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/objects/representations/x_4764/</guid>
-      <description> Titel: Kryptoporticus, Repräsentationen, 2012-07-05 Autor:in: Michael Perkampus Live-Web: http://kryptoporticus.blogspot.de/ SWBContent: Genre: .. Object Category: Repräsentation Collection: Literatur im Netz Institution: Deutsches Literaturarchiv Marbach </description>
+      <description>Titel: Kryptoporticus, Repräsentationen, 2012-07-05Autor:in: Michael PerkampusLive-Web: http://kryptoporticus.blogspot.de/SWBContent: Genre: .. Object Category: RepräsentationCollection: Literatur im NetzInstitution: Deutsches Literaturarchiv Marbach</description>
     </item>
     
   </channel>
