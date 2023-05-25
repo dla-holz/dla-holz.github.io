@@ -8,15 +8,106 @@
     <language>en-us</language>
     <managingEditor>info@sdc4lit.de (sdc4lit)</managingEditor>
     <webMaster>info@sdc4lit.de (sdc4lit)</webMaster>
-    <lastBuildDate>Tue, 09 May 2023 13:19:40 +0200</lastBuildDate><atom:link href="https://dla-holz.github.io/infocenter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 09:23:39 +0200</lastBuildDate><atom:link href="https://dla-holz.github.io/infocenter/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bausteine eines Blogs</title>
+      <title>SDC4Lit Glossar</title>
       <link>https://dla-holz.github.io/infocenter/glossar/de_glossar/</link>
       <pubDate>Mon, 08 May 2023 21:02:56 +0200</pubDate>
       <author>info@sdc4lit.de (sdc4lit)</author>
       <guid>https://dla-holz.github.io/infocenter/glossar/de_glossar/</guid>
+      <description>07 Glossar {{&amp;gt;toc}}
+A Anthologie &amp;gt; https://de.wikipedia.org/wiki/Anthologie
+&amp;gt; Eine Sammlung ausgewählter Texte oder Textauszüge in Buchform oder im weiteren Sinne eine themenbezogene Zusammenstellung aus literarischen, musikalischen oder grafischen Werken. Es handelt sich um eine von einem Herausgeber verantwortete Publikationsform.
+B BagIt &amp;gt;https://de.wikipedia.org/wiki/BagIt
+&amp;gt; BagIt File Format definiert eine plattformunabhängige, hierarchische Verzeichnisstruktur und wird im Bereich der Speicherung und Übertragung digitaler Inhalte verwendet. Ein Verzeichnis, das entsprechend diesem Format aufgebaut ist, wird Bag genannt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_dokumentation/datenmodell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_dokumentation/datenmodell/</guid>
+      <description>Datenmodell Literatur im Netz SDC4Lit Intellektuelle Einheiten Repräsentationen Derivate Metadaten Kategorien Deskriptive Metadaten, Strukturelle Metadaten, Erhaltungsmetadaten, Administrative Metadaten</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_einfuehrung/blogaufbereitung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_einfuehrung/blogaufbereitung/</guid>
+      <description>Blog-Texte für die Analyse &amp;ndash; SDC4Lit Derivate In den vorherigen Kapiteln wurde besprochen, in welcher Form ein Blog gespeichert wird und welche Herausforderungen sich daraus bei der Analyse des Blogs ergeben.
+Um die Zuverlässigkeit gängiger automatischer bzw. [quantitativer/ Anzahl-erfassender / Mengen-erfassender] Textanalysemethoden zu erhöhen, bietet SDC4Lit zu Blog-Objekten sogenannte Derivate an. Dabei handelt es sich um aus den Blogs extrahierten Text mit möglichst wenig Redundanz und möglichst wenig Fremdinhalten.
+Im Folgenden sind kurz die Schritte aufgeführt, die zur Erstellung der Derivate führen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_einfuehrung/blogbausteine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_einfuehrung/blogbausteine/</guid>
       <description>Bausteine eines Blogs [intern: hier keine SDC4Lit-spezifischen Aspekte, Ansichtsperspektive]
 Im Folgenden werden einige typische Bausteine eines Blogs beschrieben. Dazu nehmen wir in diesem Kapitel hauptsächlich die Perspektive der Blog-Besuchenden ein, so dass Sie bei der Ansicht eines Blogs die hier beschriebenen Bausteine wiederfinden können. Hinweis: Nicht jedes Blog nutzt alle Bausteine und weitere Bausteine sind möglich. Die in diesem Kapitel beschriebenen Grundlagen sind relevant für die Erläuterungen aus der Archivierungs- und Analyseperspektive in den Kapiteln Webseiten verändern sich &amp;ndash; wie werden Blogs gespeichert?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_einfuehrung/blogergebnisse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_einfuehrung/blogergebnisse/</guid>
+      <description>Ergebnisse verstehen &amp;ndash; Einfluss der Datengrundlage berücksichtigen In Kapitel Webseiten verändern sich - wie werden Blogs gespeichert? wurde darauf eingegangen, wie ein Blog gespeichert werden kann und wie sich das gespeicherte Archivobjekt zum Netzobjekt Blog verhält. Basierend auf diesen Strategien und technischen Gegebenheiten ergeben sich wichtige Hinweise für den Umgang mit Analysen und Analyseergebnissen.
+Redundanz Datierung Suche Ansicht Vergleichbarkeit innerhalb eines und zwischen verschiedenen Blogs Redundanz Im Archivobjekt sind Inhalte (z.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_einfuehrung/blogintro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_einfuehrung/blogintro/</guid>
+      <description>Untersuchung von Blog-Daten in SDC4Lit &amp;ndash; Einführung Für wen ist diese Einführung relevant? Auf der Plattform SDC4Lit sind unter anderem Blog-Daten abgelegt. Sie können durchsucht und angezeigt werden und stehen zur Analyse zur Verfügung. Um Analysen geeignet durchzuführen und Ansichten sowie Ergebnisse von Suchen und Analysen interpretieren zu können ist es relevant, die im technischen Prozess der Ablage genutzen Maßnahmen und getroffenen Entscheidungen zu kennen.
+Diese Einführung ist daher für alle Nutzenden der Blog-Daten auf SDC4Lit relevant.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_einfuehrung/blogspeichern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_einfuehrung/blogspeichern/</guid>
+      <description>Webseiten verändern sich &amp;ndash; wie werden Blogs gespeichert? [intern: Einführung berücksichtigt bisher keine mögliche Speicherung über APIs]
+Crawling Blog-Daten können mit dem Prozess eines &amp;ldquo;Crawlings&amp;rdquo; gespeichert werden. Eine Software, Crawler genannt, erhält dabei eine oder mehrere URLs als Startseiten. Von diesen Startseiten aus springt der Crawler entlang aller auf der Seite befindlichen Links weiter. Bereits besuchte Seiten, die über verschiedene Wege erreichbar sind, werden nicht erneut besucht, so dass jede Seite nur einmal gespeichert wird.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/_glossar/glossar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/_glossar/glossar/</guid>
+      <description>Crawl Beschreibung, = Spiegelung = Capture
+Dataset Beschreibung
+Dataverse (Strukturelement) Beschreibung
+Dataverse Beschreibung
+DOI - Digital Object Identifier Beschreibung
+Intellektuelle Einheit Beschreibung
+PID - Persistent Identifier Repräsentation Beschreibung
+Wiedergabetool / Player Beschreibung
+Webarchiv Beschreibung
+Webarchivierungstool Beschreibung</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dla-holz.github.io/infocenter/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/readme/</guid>
+      <description>Dokumentation Arbeitsort für die Erstellung der Dokumentation. Alle Texte werden zunächst in Markdown hier abgelegt und können später nach Bedarf konvertiert werden. Es wird empfohlen, sich bei der Verwendung von Markdown auf die Basisfunktionen zu beschränken, d.h. beispielsweise kein extended Markdown für Pandoc zu verwenden.
+Die Ordner der ersten Ebene (außer &amp;ldquo;arbeitsdateien&amp;rdquo;) bilden die Redaktionsstruktur für den Bereich InfoCenter ab, wie er für das Portal vorgesehen ist. Einzelne Beiträge werden in den jeweiligen Ordnern abgelegt.</description>
     </item>
     
   </channel>

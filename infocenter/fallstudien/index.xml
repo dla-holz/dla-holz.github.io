@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fallstudien on SDC4Lit-Testseite</title>
+    <link>https://dla-holz.github.io/infocenter/fallstudien/</link>
+    <description>Recent content in Fallstudien on SDC4Lit-Testseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>info@sdc4lit.de (sdc4lit)</managingEditor>
+    <webMaster>info@sdc4lit.de (sdc4lit)</webMaster>
+    <lastBuildDate>Wed, 24 May 2023 21:21:08 +0200</lastBuildDate><atom:link href="https://dla-holz.github.io/infocenter/fallstudien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fallbeispiel Keshif Techniktagebuch</title>
+      <link>https://dla-holz.github.io/infocenter/fallstudien/keshif/</link>
+      <pubDate>Wed, 24 May 2023 21:21:08 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/fallstudien/keshif/</guid>
+      <description>Hinleitung In einem Fallbeispiel möchten wir eine konkrete Forschungsfrage für den speziellen Fall des Techniktagebuchblogs untersuchen. Dazu wird das Techniktagebuch-Blog als exemplarisches Korpus ausgewählt, an das eine konkrete Forschungsfrage gestellt wird.
+Material Blog Techniktagebuch
+Das Techniktagebuch ist ein Blog, das 2014 von Kathrin Passig ins Leben gerufen wurde. Mehr als 60 regelmäßige, zum Teil unter Pseudonym schreibende Autorinnen und Autoren bloggen hier - oftmals humorvoll - über ihre Erlebnisse, Erfahrungen, Erfolge und Misserfolge im Zusammenhang mit technischen Themen und Gegenständen.</description>
+    </item>
+    
+    <item>
+      <title>Fallbeispiel Stylo</title>
+      <link>https://dla-holz.github.io/infocenter/fallstudien/stylo/</link>
+      <pubDate>Wed, 24 May 2023 21:21:08 +0200</pubDate>
+      <author>info@sdc4lit.de (sdc4lit)</author>
+      <guid>https://dla-holz.github.io/infocenter/fallstudien/stylo/</guid>
+      <description>Gegenstand Untersuchungsgegenstand ist in dieser Fallstudie das Blog The Short Story. In diesem Blog werden kleinere literarische Beiträge, die unter dem Sammelbegriff Short Stories, also Kurzgeschichten, zusammengefasst sind, veröffentlicht. Das dem Blog zugrunde liegende Korpus konzentriert sich auf deutschsprachige Texte und besteht aus knapp 700 Texten, geschrieben von 55 Autor:innen, die ihre Texte in 12 verschiedenen Genres kategorisiert haben. Die Genres teilen sich wie folgt auf:
+Kategorie Anzahl Texte Prosa 271 Lyrik 207 Humor 80 Essay 47 Kindergeschichten 25 Krimi 16 Fiktion 14 Märchen 14 Erotik 10 Reisegeschichten 9 Gedankensplitter 3 Klassik 2 Tools In dieser Fallstudie kommt das Analysetool Stylo zum Einsatz, mit dem sich Fragen der Stilometrie beantworten lassen.</description>
+    </item>
+    
+  </channel>
+</rss>
