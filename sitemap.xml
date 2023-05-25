@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dla-holz.github.io/infocenter/</loc>
-    <lastmod>2023-05-09T13:19:40+02:00</lastmod>
+    <loc>https://dla-holz.github.io/infocenter/tools/</loc>
+    <lastmod>2023-05-25T09:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://dla-holz.github.io/infocenter/introduction/</loc>
-    <lastmod>2023-05-09T13:19:40+02:00</lastmod>
+    <loc>https://dla-holz.github.io/infocenter/</loc>
+    <lastmod>2023-05-25T09:23:39+02:00</lastmod>
   </url><url>
     <loc>https://dla-holz.github.io/</loc>
-    <lastmod>2023-05-09T13:19:40+02:00</lastmod>
+    <lastmod>2023-05-25T09:23:39+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/tools/de_tool02/</loc>
+    <lastmod>2023-05-25T09:23:31+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/tools/de_tool01/</loc>
+    <lastmod>2023-05-25T09:23:25+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/introduction/de_aufbereitung/</loc>
+    <lastmod>2023-05-25T08:37:00+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/fallstudien/keshif/</loc>
+    <lastmod>2023-05-24T21:21:08+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/fallstudien/stylo/</loc>
+    <lastmod>2023-05-24T21:21:08+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/fallstudien/</loc>
+    <lastmod>2023-05-24T21:21:08+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/introduction/</loc>
+    <lastmod>2023-05-24T20:30:40+02:00</lastmod>
   </url><url>
     <loc>https://dla-holz.github.io/infocenter/documentation/</loc>
     <lastmod>2023-05-09T13:19:34+02:00</lastmod>
@@ -33,9 +54,6 @@
     <lastmod>2023-05-08T21:02:56+02:00</lastmod>
   </url><url>
     <loc>https://dla-holz.github.io/infocenter/introduction/de_bausteine/</loc>
-    <lastmod>2023-05-08T21:02:56+02:00</lastmod>
-  </url><url>
-    <loc>https://dla-holz.github.io/infocenter/introduction/de_einfuehrung/</loc>
     <lastmod>2023-05-08T21:02:44+02:00</lastmod>
   </url><url>
     <loc>https://dla-holz.github.io/infocenter/documentation/de_derivate/</loc>
@@ -55,6 +73,22 @@
   </url><url>
     <loc>https://dla-holz.github.io/post/</loc>
     <lastmod>2023-04-15T14:02:33+02:00</lastmod>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_dokumentation/datenmodell/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_einfuehrung/blogaufbereitung/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_einfuehrung/blogbausteine/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_einfuehrung/blogergebnisse/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_einfuehrung/blogintro/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_einfuehrung/blogspeichern/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/_glossar/glossar/</loc>
+  </url><url>
+    <loc>https://dla-holz.github.io/infocenter/readme/</loc>
   </url><url>
     <loc>https://dla-holz.github.io/objects/intellectual_entity/x_4785/</loc>
   </url><url>
